@@ -1,0 +1,2 @@
+# JavaSctript_practice
+JavaScriptを使えるようにするためのリポジトリ
